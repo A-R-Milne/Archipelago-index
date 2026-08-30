@@ -1462,6 +1462,9 @@
 [sdc]
 "0.4.0" = "3ddf0220a2b839e25d36c64e282211c375f51ff2081f49798e9d2ab746dd4f0b"
 
+[severed_soul]
+"2.8.0" = "2fd07e0d25ddfefa36053c8e29a588a6b09b336c0e91ec89abfc7639bda113c5"
+
 [severed_steel]
 "1.0.0" = "7e6affe273dbdeceb11ba1f81e1bbdcf0896dec8d0525a16261eaceb25280598"
 
